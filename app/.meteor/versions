@@ -34,9 +34,6 @@ ejson@1.0.11
 ethereum:accounts@0.4.0
 ethereum:blocks@0.3.2
 ethereum:dapp-styles@0.5.7
-ethereum:elements@0.7.18
-ethereum:tools@0.7.0
-ethereum:web3@0.15.3
 fastclick@1.0.11
 frozeman:animation-helper@0.2.6
 frozeman:global-notifications@0.2.1
@@ -78,6 +75,11 @@ modules-runtime@0.6.3
 mongo@1.1.7
 mongo-id@1.0.4
 mrt:qrcodesvg@0.1.0
+mubiale:accounts@1.0.1
+mubiale:blocks@1.0.3
+mubiale:elements@1.0.1
+mubiale:tools@1.0.1
+mubiale:web3@1.0.3
 npm-mongo@1.4.43
 numeral:languages@1.5.3
 numeral:numeral@1.5.3_1
